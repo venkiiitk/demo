@@ -1,0 +1,73 @@
+{
+    "result": {
+        "vehicleModuleResponseType": null,
+        "vehicleBO": null,
+        "firmwareUpdate": {
+            "key": "7963076681484015883",
+            "packagingStatus": "Available",
+            "status": "Available",
+            "downloadUrl": "https://ivsubinaries.azureedge.net/owner-package/7963076681484015883\\EA5T-14D544-BA.zip",
+            "replyUrl": "https://owner.ford.com/sharedServices/foe/email/secureemailpost.do",
+            "message": null,
+            "errorDetail": null,
+            "replyParameters": {
+                "to": "",
+                "firstName": "",
+                "brand": "ford",
+                "token": "",
+                "languageCode": null,
+                "countryCode": null,
+                "currentSyncVersion": "SYNC2 v3.6"
+            }
+        },
+        "vehicleSyncGenerationStatus": {
+            "vin": "1FM5K7F80EGB79480",
+            "genText": "GEN2",
+            "genId": 2,
+            "gen11": false,
+            "syncEquipped": true
+        },
+        "latestUpdateDate": "February 14, 2014",
+        "vehicleSyncUpdateAvailable": true,
+        "unconfirmedInstallation": false,
+        "currentSyncVersion": "SYNC2 v3.6",
+        "availableDealerUpdates": null,
+        "availableUpdateDownload": {
+            "downloadInfo": {
+                "vin": "1FM5K7F80EGB79480",
+                "esn": "XT1NCY3H",
+                "partNumber": "EA5T-14D544-BA",
+                "softwareURL": null,
+                "numVersion": "SYNC2 &#45; V3.10",
+                "softwareState": null
+            },
+            "updateDetails": {
+                "binaryFileROMSize": "348759140",
+                "dealerVisitRequiredFlag": false,
+                "functionalTypeValues": [
+                    "GEN2",
+                    "Phone and Media"
+                ],
+                "runTimeSize": "2104594708",
+                "marketingDescription": "<p>ABOUT THE LATEST UPDATE</p><p>The new software update for SYNC&#174; with MyFord Touch&#174; systems includes all the improvements from previous updates, plus additional changes to accommodate new and updated customer devices, such as:</p> <b><li>Hazard switch illuminates on Focus &#47; Escape with ignition off and park lamps on </li></b> <b><li>Next Track &#47; Previous Track controls from SYNC touchscreen</li></b> <b><li>SYNC Maintaining Repeat &#47; Shuffle settings that were set on the device side</li></b> <b><li>Compatibility updates for the latest phone and media devices</li></b> <p>The installation of this update will take up to 30 minutes to complete.</p><p>Be sure to keep your engine running &#40;not in accessory mode&#41; throughout the entire installation process. Turning off your vehicle during the update installation will disrupt the process. Although your vehicle must be in park when you begin the installation process, you may drive your vehicle while the update is downloading to your SYNC&#174; system.</p><p>If your vehicle is equipped with the Intelligent Access with Push Button Start feature, you will need to temporarily disable the Automatic Engine Idle Shutdown &#40;AEIS&#41; component before beginning the installation in order to prevent your vehicle from timing out and shutting off the engine before the software update is complete. To disable this feature, use your steering wheel controls to navigate to the Settings menu on your left-hand Instrument Cluster LCD display. From there, select Vehicle &gt;Auto Engine Off &gt;Off. (If you do not see this setting, there is no need to make any changes before starting the update.)</p> <p>Alternatively, after initiating the installation, you may drive the vehicle during the update process to avoid shutting off the engine. The next time you start your vehicle, the AEIS will automatically reset to &#34;On.&#34;</p><p>Please note&#58; During the update installation, SYNC&#174; will temporarily appear to not recognize your mobile phone or media device. This is normal. Once your system has been successfully updated, SYNC&#174; will display a notification stating &#34;Installation complete.&#34;</p>",
+                "softwarePartNumber": "EA5T-14D544-BA",
+                "name": "EA5T&#45;14D544&#45;BA",
+                "softwareSize": "348759140",
+                "type": "Image",
+                "version": "SYNC2 &#45; V3.10",
+                "imageUpdateRequired": null,
+                "euladocumentLink": "https://gvms-binarydownload-server-edc1.apps.pd01e.edc1.cf.ford.com/downloadfile?value=a2V5bmFtZT1FVUwwMDAwMTYkJEdfMTQ4NDA2NTIxMDAwMF9FTiZmaWxldHlwZT1ldWxhJmVudmlyb25tZW50PVBST0QmZmlsZXNpZ25hdHVyZT0weDA4MDM2RDk4Mjk0QkE3OUREQ0UzNUVERDQ4NzMzRDhB"
+            }
+        },
+        "isGetInstallPackageService": true,
+        "dealerInstalltion": false,
+        "httpStatus": null,
+        "lastRequested": null,
+        "userGuid": null,
+        "version": null,
+        "status": 0,
+        "error": null,
+        "message": null
+    },
+    "error": null
+}
